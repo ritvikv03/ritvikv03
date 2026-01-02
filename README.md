@@ -21,7 +21,7 @@ I'm a data scientist who loves extracting insights from complex datasets and bui
 * 👯 I'm looking to collaborate on **data science projects and ML research**.
 * 🤔 I'm looking for help with **production ML systems and model deployment**.
 * 💬 Ask me about **data analysis, machine learning, and statistical modeling**.
-* 📫 How to reach me: **[Your Email Here]**
+* 📫 How to reach me: **[ritvik.vasikarla@gmail.com]**
 * ⚡ Fun fact: **I love finding patterns in data and turning them into actionable insights!**
 
 
@@ -61,18 +61,6 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritvikv03&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritvikv03&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
