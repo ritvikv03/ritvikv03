@@ -2,7 +2,7 @@
   Hi there, I'm Ritvik! 👋
 </h1>
 
-<h3 align="center">Data Scientist | Machine Learning Enthusiast | Analytics Expert</h3>
+<h3 align="center"> M.S. Business Analytics student @UW-Madison</h3>
 
 <p align="center">
   <em>
