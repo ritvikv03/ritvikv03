@@ -64,7 +64,7 @@ Here are some of the technologies and tools I work with:
 ---
 
 <p align="center">
-  <em>💡 "In God we trust. All others must bring data." – W. Edwards Deming</em>
+  <em> "In God we trust. All others must bring data." – W. Edwards Deming</em>
 </p>
 
 <p align="center">
