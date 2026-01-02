@@ -2,11 +2,11 @@
   Hi there, I'm Ritvik! 👋
 </h1>
 
-<h3 align="center">Software Developer | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center">Data Scientist | Machine Learning Enthusiast | Analytics Expert</h3>
 
 <p align="center">
   <em>
-    Passionate about building elegant solutions and exploring cutting-edge technologies
+    Turning data into insights and building intelligent solutions through machine learning
   </em>
 </p>
 
@@ -14,38 +14,53 @@
 
 ### 👨‍💻 About Me
 
-I'm a software developer who loves tackling challenging problems and creating innovative solutions. I'm always eager to learn new technologies and collaborate on exciting projects.
+I'm a data scientist who loves extracting insights from complex datasets and building predictive models. I'm passionate about using machine learning and statistical analysis to solve real-world problems.
 
-* 🔭 I'm currently working on **building scalable applications and exploring new frameworks**.
-* 🌱 I'm currently learning **cloud technologies, AI/ML, and modern web development**.
-* 👯 I'm looking to collaborate on **open source projects and innovative solutions**.
-* 🤔 I'm looking for help with **advanced system design and distributed systems**.
-* 💬 Ask me about **software development, coding best practices, and tech trends**.
+* 🔭 I'm currently working on **machine learning projects and advanced data analytics**.
+* 🌱 I'm currently learning **deep learning, MLOps, and large language models**.
+* 👯 I'm looking to collaborate on **data science projects and ML research**.
+* 🤔 I'm looking for help with **production ML systems and model deployment**.
+* 💬 Ask me about **data analysis, machine learning, and statistical modeling**.
 * 📫 How to reach me: **[Your Email Here]**
-* ⚡ Fun fact: **I love solving coding challenges and exploring new programming paradigms!**
+* ⚡ Fun fact: **I love finding patterns in data and turning them into actionable insights!**
 
 
 ### 🛠️ My Tech Stack
 
 Here are some of the technologies and tools I work with:
 
+**Languages & Core Tools:**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/R-75aadb?style=for-the-badge&logo=R&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-ee3d2c?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+**Machine Learning & Deep Learning:**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+</p>
+
+**Data Analysis & Visualization:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+</p>
+
+**Tools & Platforms:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
 </p>
 
 ---
@@ -63,7 +78,7 @@ Here are some of the technologies and tools I work with:
 ---
 
 <p align="center">
-  <em>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</em>
+  <em>💡 "In God we trust. All others must bring data." – W. Edwards Deming</em>
 </p>
 
 <p align="center">
