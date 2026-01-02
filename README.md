@@ -19,7 +19,7 @@ Hi! I’m a data scientist who enjoys digging into messy data, finding patterns 
 * 🔭 I'm currently working on **building end-to-end analytics projects**.
 * 🌱 I'm currently learning about **sports betting models**.
 * 🤔 I'm looking for help with **production ML systems and model deployment**.
-* 📫 How to reach me: **[ritvik.vasikarla@gmail.com]**
+* 📫 How to reach me: **ritvik.vasikarla@gmail.com**
 * ⚡ Fun fact: **I love hooping, chess, and poker!**
 
 
