@@ -14,15 +14,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a data scientist who loves extracting insights from complex datasets and building predictive models. I'm passionate about using machine learning and statistical analysis to solve real-world problems.
+Hi! I’m a data scientist who enjoys digging into messy data, finding patterns that matter, and turning them into insights people can actually use. I like working on problems where data, curiosity, and practical decision-making come together.
 
-* 🔭 I'm currently working on **machine learning projects and advanced data analytics**.
-* 🌱 I'm currently learning **deep learning, MLOps, and large language models**.
-* 👯 I'm looking to collaborate on **data science projects and ML research**.
+* 🔭 I'm currently working on **building end-to-end analytics projects**.
+* 🌱 I'm currently learning about **sports betting models**.
 * 🤔 I'm looking for help with **production ML systems and model deployment**.
-* 💬 Ask me about **data analysis, machine learning, and statistical modeling**.
 * 📫 How to reach me: **[ritvik.vasikarla@gmail.com]**
-* ⚡ Fun fact: **I love finding patterns in data and turning them into actionable insights!**
+* ⚡ Fun fact: **I love hooping, chess, and poker!**
 
 
 ### 🛠️ My Tech Stack
