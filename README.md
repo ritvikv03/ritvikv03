@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    Turning data into insights and building intelligent solutions through machine learning
+    Fellow data scientist passionate about statistics, math, programming and anything NBA
   </em>
 </p>
 
